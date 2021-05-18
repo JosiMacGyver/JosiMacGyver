@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JosiMacGyver or Joseana. I'm from Brazil
+- 👋 Hi, I’m @JosiMacGyver or Joseana
 - 👀 I’m interested in Front-End dev, Data Science
 - 🌱 I’m currently learning Machine Learn techniques
 - 💞️ I’m looking to collaborate with other person who start to study different languages and methods
